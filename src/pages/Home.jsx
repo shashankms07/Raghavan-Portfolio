@@ -134,7 +134,7 @@ export default function Home() {
         stats={[
           { value: '30<em>+</em>', label: 'Years' },
           { value: '100<em>+</em>', label: 'Institutions' },
-          { value: '10K<em>+</em>', label: 'Professionals' },
+          { value: '100<em>+</em>', label: 'Professionals' },
         ]}
         ctaPrimary={{ label: 'Connect with me', to: '/connect' }}
         ctaSecondary={{ label: 'Discover more', to: '/about' }}
